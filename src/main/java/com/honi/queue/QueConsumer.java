@@ -12,7 +12,7 @@ import javax.jms.TextMessage;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 public class QueConsumer {
-	//ActiveMQ默认端口61616,访问地址是127.0.0.1:8161
+	//ActiveMQ默认端口61616,访问地址是127.0.0.1:8161，test
 	private static final String url = "tcp://127.0.0.1:61616";
 	private static final String queueName = "queue-test";
 	
