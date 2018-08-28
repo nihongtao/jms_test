@@ -1,1 +1,1 @@
-# jms_test
+# jms-test
